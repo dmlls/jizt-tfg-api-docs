@@ -7,13 +7,13 @@ info:
     using state-of-the-art NLP models.
   contact:
     name: Diego Miguel
-    url: 'https://www.jizt.it'
+    url: 'https://dmlls.github.io/jizt-website'
     email: jizt@diegomiguel.me
   license:
     name: GPL-3.0 License
     url: 'https://www.gnu.org/licenses/gpl-3.0.en.html'
   x-logo:
-    url: 'https://raw.githubusercontent.com/dmlls/jizt-api-docs/main/images/logo.png'
+    url: 'https://raw.githubusercontent.com/dmlls/jizt-tfg-api-docs/main/images/logo.png'
     altText: JIZT Main Page
 tags:
   - name: Summaries
